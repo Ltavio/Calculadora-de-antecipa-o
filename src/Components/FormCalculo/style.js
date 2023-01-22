@@ -28,7 +28,7 @@ export const ContainerForm = styled.div`
       height: 38.5px;
 
       padding: 13px;
-      margin-bottom: 21px;
+      margin-bottom: 10px;
 
       font-family: "Inter", sans-serif;
       font-weight: 400;

@@ -3,8 +3,8 @@ import styled from "styled-components";
 export const Container = styled.div`
     display: flex;
 
-    height: 65vh;
-    width: 55vw;
+    height: 75vh;
+    width: 60vw;
 
     /* background-color: black; */
     border-radius: 10px;
